@@ -1,18 +1,25 @@
-# Visual Brief — Launch Carousel v3 (4 slides, 1080x1350, Arabic/RTL, Gen Z style)
+# Visual Brief — Launch Carousel v4 (4 slides, 1080x1350, Arabic/RTL, Gen Z style)
 
 Topic: "٣ أخطاء بتحرق ميزانية إعلاناتك" (3 mistakes that burn your ad budget) —
-a media-buying tip carousel with curiosity-driven hooks, custom illustrations,
-and a bold sticker/meme-adjacent visual style aimed at grabbing attention fast
-in-feed. Designed drafts are published as a Claude Design canvas — open it,
-swap in your real photo/branding if you want, then export each slide as PNG
-and post in order.
+a media-buying tip carousel with curiosity-driven hooks, a recurring cartoon
+mascot for personality, and a bold sticker/meme-adjacent visual style aimed
+at grabbing attention fast in-feed. Designed drafts are published as a Claude
+Design canvas — open it, swap in your real photo/branding if you want, then
+export each slide as PNG and post in order.
 
 | Slide | Content |
 |---|---|
-| 1 (cover/hook) | Halftone-dot color block + rotated "🚨 PSA" sticker + curiosity headline "الأخطاء دي بتحرق فلوسك وانت مش حاسس 👀🔥" + custom illustration (stack of cash bills with a flame) + identity folded into a small rotated tag ("نور 👋 ميديا باير") + playful swipe cue |
-| 2 (mistake 1) | Sticker badge "١" + dartboard-with-missed-darts illustration + question-form hook "بتشغل إعلان... من غير ما تعرف بيحققلك إيه؟ 😬" + explainer + hard-shadow fix box: "حدد هدف واحد واضح لكل إعلان قبل ما تطلقه" |
-| 3 (mistake 2) | Sticker badge "٢" + megaphone-blasting-everywhere illustration + contradiction-hook "بتستهدف 'كل الناس'؟ يبقى إنت مش بتستهدف حد 🎯" + explainer + fix box: "ابدأ بجمهور مركّز، اختبر، ووسّع بس لما تلاقي اللي بيحقق نتيجة" |
-| 4 (mistake 3 + CTA) | Sticker badge "٣" + photo-frame-with-crossed-out-message illustration + equation-style hook "صورة حلوة + كلام فاضي = صفر مبيعات 📉" + explainer + fix box + CTA: "لو لقيت نفسك في واحدة من دول... يلا نتكلم 😅" + pill button "تابعني + DM 'WORK'" |
+| 1 (cover/hook) | Halftone-dot color block + rotated "🚨 PSA" sticker + mascot (waving, laughing) + curiosity headline "الأخطاء دي بتحرق فلوسك وانت مش حاسس 👀🔥" + custom illustration (stack of cash bills with a flame) + identity folded into a small rotated tag ("نور 👋 ميديا باير") + playful swipe cue |
+| 2 (mistake 1) | Sticker badge "١" + mascot (shocked) + dartboard-with-missed-darts illustration + question-form hook "بتشغل إعلان... من غير ما تعرف بيحققلك إيه؟ 😬" + explainer + hard-shadow fix box: "حدد هدف واحد واضح لكل إعلان قبل ما تطلقه" |
+| 3 (mistake 2) | Sticker badge "٢" + mascot (confused/worried) + a stylized "ad set" audience mockup card — "الجمهور: الكل 🌍" selected, audience size bar maxed to "+٩٠ مليون", a "واسع جدًا!" warning — a generic, original UI mockup (not Meta's actual branded interface) that makes the targeting mistake concrete for anyone who's opened an ads dashboard + contradiction-hook "بتستهدف 'كل الناس'؟ يبقى إنت مش بتستهدف حد 🎯" + explainer + fix box: "ابدأ بجمهور مركّز، اختبر، ووسّع بس لما تلاقي اللي بيحقق نتيجة" |
+| 4 (mistake 3 + CTA) | Sticker badge "٣" + mascot (winking, celebratory) + photo-frame-with-crossed-out-message illustration + equation-style hook "صورة حلوة + كلام فاضي = صفر مبيعات 📉" + explainer + fix box + CTA: "لو لقيت نفسك في واحدة من دول... يلا نتكلم 😅" + pill button "تابعني + DM 'WORK'" |
+
+## Mascot
+A simple rounded-squircle character (navy or terracotta body, dot eyes, a
+line-drawn mouth) reacts differently on each slide — waving/laughing on the
+hook, shocked on mistake 1, confused/worried on mistake 2, winking on the
+close. Gives the carousel a consistent, recognizable "face" post over post,
+similar to how Duolingo's owl works — without needing a real photo yet.
 
 ## Design system
 - Palette: deep navy (#1B2A4A) + warm terracotta accent (#D97757) + cream (#FBF7F0), with alternating slide backgrounds (cream → navy → cream → terracotta) so the carousel pops as you swipe instead of reading as one flat block
