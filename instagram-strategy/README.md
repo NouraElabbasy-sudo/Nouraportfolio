@@ -92,3 +92,13 @@ attention into leads by proving results and lowering risk for a prospective clie
 3. Set up Highlights (Services / Results / About / Corporate Work / FAQ).
 4. Add a portfolio/Linktree link in bio.
 5. Follow the 2-week calendar, then review what got saves/DMs and double down on that pillar.
+
+## Update — launch post v2 (Arabic tip carousel)
+The launch post was reworked from a 7-slide English self-intro carousel to a
+4-slide Arabic tip carousel ("3 mistakes that burn your ad budget"). Tip/value
+content earns more saves and shares than a pure intro, and it demonstrates
+expertise instead of just stating it — your dual identity (media buyer +
+corporate comms lead) is folded into slide 1's hook line instead of getting
+its own slide. See `/first-post/caption.md` and `/first-post/visual-brief.md`
+for the current version. A short video self-intro (Reel) is a strong
+follow-up post 2-3 days later, once this carousel has pulled people in.
